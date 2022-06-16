@@ -1,0 +1,3 @@
+C:/Users/Sovin/Desktop/POJ/poj_1007/cmake-build-debug/CMakeFiles/poj_1007.dir
+C:/Users/Sovin/Desktop/POJ/poj_1007/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sovin/Desktop/POJ/poj_1007/cmake-build-debug/CMakeFiles/rebuild_cache.dir
